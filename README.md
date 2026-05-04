@@ -21,8 +21,10 @@ Accessible at: http://localhost:8081
 ## 📂 Project Structure
 - index.html
 - Dockerfile
+  
+## 📸 Output Screenshot
+![Project Output](output.png)
 
 ## 👩‍💻 Author
 Sonali Pawar
-## 📸 Output Screenshot
-![Project Output](output.png)
+
