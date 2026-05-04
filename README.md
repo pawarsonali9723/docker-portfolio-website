@@ -24,3 +24,5 @@ Accessible at: http://localhost:8081
 
 ## 👩‍💻 Author
 Sonali Pawar
+## 📸 Output Screenshot
+![Project Output](output.png)
